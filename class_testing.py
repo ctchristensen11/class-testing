@@ -17,3 +17,10 @@ print(x*y)
 Thurs = True
 if Thurs:
   print("I'm Busy")
+
+print("Wine and Dine?")
+
+ans = True
+
+if ans:
+  print("I am so happy")
